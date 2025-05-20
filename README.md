@@ -1,7 +1,7 @@
 # OpenSTARLab: Open Spatio-Temporal Agent Research Platform
 
 <div align="center">
-  <img src="https://github.com/open-starlab/.github/blob/main/profile/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
+  <img src="https://anonymous.4open.science/r/openstarlab_MLSA-6E8D/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
 </div>
 
 ## Introduction
